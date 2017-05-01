@@ -1,7 +1,7 @@
 <html>
 <title>Tic Tac Toe</title>
 <head>
-<link rel="stylesheet" type="text/css" href="ticTac.css" />
+<link rel="stylesheet" type="text/css" href="styles.css" />
 <script type="text/javascript" src="app.js"></script>       
 </head>
 <body onload="fnLoad()">
